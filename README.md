@@ -11,7 +11,7 @@
 
 -  **Tech Stack:** React, JavaScript, Python, Node.js, MongoDB, Express.js, Django, Tailwind CSS, HTML, Postman, Cloud Platforms, Linux, Blockchain, Wireshark
 
--  I’m looking to collaborate on **Open-Source Security Projects**
+-  I’m looking to collaborate on **Open-Source Projects**
 
 -  I regularly write articles on [https://techverse224.wordpress.com/](https://techverse224.wordpress.com/)
 
