@@ -58,17 +58,19 @@
 
 
 
-<p align="center">
-  <img
-    src="https://awesome-github-stats.azurewebsites.net/user-stats/ajinkyap9?theme=github-dark&cardType=github"
-    width="90%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=ajinkyap9&theme=github-dark&hide_border=true"
-    width="90%"
-  />
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://awesome-github-stats.azurewebsites.net/user-stats/ajinkyap9?theme=github-dark&cardType=github"
+        width="400"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com?user=ajinkyap9&theme=github-dark&hide_border=true"
+        width="400"
+      />
+    </td>
+  </tr>
+</table>
