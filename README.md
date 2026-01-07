@@ -63,13 +63,13 @@
     <td align="center">
       <img
         src="https://awesome-github-stats.azurewebsites.net/user-stats/ajinkyap9?theme=github-dark&cardType=github"
-        width="400"
+        width="380"
       />
     </td>
     <td align="center">
       <img
         src="https://github-readme-streak-stats.herokuapp.com?user=ajinkyap9&theme=github-dark&hide_border=true"
-        width="400"
+        width="380"
       />
     </td>
   </tr>
