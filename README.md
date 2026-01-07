@@ -56,7 +56,7 @@
 
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/ddf2e61e40a672d5148927e186f409efbda38ef5/Assets/Blue%20Line.gif" width="100%" height="2px" />
 
-<h3 align="center">📊 GitHub Stats</h3>
+
 
 <p align="center">
   <img
