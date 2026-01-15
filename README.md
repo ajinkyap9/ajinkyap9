@@ -62,14 +62,16 @@
   <tr>
     <td align="center">
       <img
-        src="https://awesome-github-stats.azurewebsites.net/user-stats/ajinkyap9?theme=github-dark&cardType=github"
+        src="https://github-readme-stats-orcin-eight-83.vercel.app/api?username=ajinkyap9&show_icons=true&theme=github_dark&hide_border=true"
         width="380"
+        alt="GitHub Stats"
       />
     </td>
     <td align="center">
       <img
-        src="https://github-readme-streak-stats.herokuapp.com?user=ajinkyap9&theme=github-dark&hide_border=true"
+        src="https://github-readme-streak-stats-v95z.onrender.com/?user=ajinkyap9&theme=github-dark&hide_border=true"
         width="380"
+        alt="GitHub Streak"
       />
     </td>
   </tr>
