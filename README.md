@@ -11,15 +11,11 @@
 ---
 
 ### About Me
-
 <div align="justify">
 
-I’m an **Information Technology student at PICT**, focused on building **scalable full-stack systems and intelligent applications** by combining modern software engineering with **security-first design principles**.
-My work spans **full-stack development, cybersecurity, and agentic AI**, where I design systems with **secure architectures, API protection, and threat-aware logic**. 
-
-I build **AI-driven workflows using LangChain & LangGraph**, enabling multi-step reasoning, automation, and real-time decision-making.
-Alongside development, I actively explore **defensive security (Blue Teaming)** analyzing network traffic, detecting anomalies, and understanding real-world attack patterns using tools like Wireshark and Nmap.
-I also share technical insights through my platform **TechVerse**, covering **system design, AI systems, and cybersecurity concepts**.
+I build scalable backend systems and intelligent applications, focused on performance, reliability, and clean architecture.  
+My work combines software development and agentic AI, creating systems capable of autonomous decision-making and real-time execution.  
+I also share insights on cybersecurity and emerging technologies through TechVerse, translating complex concepts into practical knowledge.  
 
 </div>
 
