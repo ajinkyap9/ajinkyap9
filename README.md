@@ -1,78 +1,118 @@
-<h3 align="center">
-  <div align="justify" style="text-align: justify;">
-    I’m an IT student at PICT focused on building efficient, scalable software solutions using modern development frameworks. 
-    I integrate security principles into the development process, applying threat analysis and defense strategies to design resilient products. 
-    Through my platform TechVerse, I share insights on emerging technologies, blockchain, and system security.
-  </div>
-</h3>
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hey%20There!%20I'm%20Ajinkya%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn"/>
+</p>
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=750&lines=Building+Secure+Full+Stack+Applications;Exploring+Cybersecurity+%26+Threat+Detection;Agentic+AI+Developer"/>
+</p>
 
+---
 
+### About Me
 
-<img src="https://hits.sh/github.com/ajinkyap9/hits.svg?style=plastic&label=Visitors&color=purple&labelColor=indigo&logo=github"/>
+<div align="justify">
 
-<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/aa28326300247d989c9f7c2eeb177f59577d785b/Assets/RGB%20Line%20Medium.gif?raw=true" width="100%">
+I’m an **Information Technology student at PICT**, focused on building **scalable full-stack systems and intelligent applications** by combining modern software engineering with **security-first design principles**.
+My work spans **full-stack development, cybersecurity, and agentic AI**, where I design systems with **secure architectures, API protection, and threat-aware logic**. 
 
-- I’m currently building a solid foundation in Information Technology at PICT, specializing in full-stack software development and cybersecurity analysis.
-- **Tech Stack:** React, JavaScript, Python, Node.js, MongoDB, Express.js, Django, Tailwind CSS, HTML, Postman, Cloud Platforms, Linux, Blockchain, Wireshark.
-- I’m looking to collaborate on **Open-Source Projects**.
-- I regularly write articles on [https://techverse224.wordpress.com/](https://techverse224.wordpress.com/)
+I build **AI-driven workflows using LangChain & LangGraph**, enabling multi-step reasoning, automation, and real-time decision-making.
+Alongside development, I actively explore **defensive security (Blue Teaming)** analyzing network traffic, detecting anomalies, and understanding real-world attack patterns using tools like Wireshark and Nmap.
+I also share technical insights through my platform **TechVerse**, covering **system design, AI systems, and cybersecurity concepts**.
 
-<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/ddf2e61e40a672d5148927e186f409efbda38ef5/Assets/Blue%20Line.gif" width="100%" height="2px" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ajinkya-pathak-820675326/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+---
+
+<img src="https://hits.sh/github.com/ajinkyap9/hits.svg?style=flat-square&label=Visitors&color=00C9A7&labelColor=0F2027"/>
+
+---
+
+### What I’m Working On
+
+- 🎓 Developing strong foundations in **Full Stack Development with a focus on backend systems and scalable architectures**
+- 🔐 Advancing in **Cybersecurity & Defensive Engineering** — network analysis, threat detection, and security monitoring
+- 🤖 Building **Agentic AI systems using LangChain & LangGraph**
+- ⚙️ Engineering **production-ready applications** with secure APIs and optimized performance
+- 🧪 Exploring **System Design, cloud-native deployment, and security-first architectures**
+- ✍️ Publishing on **TechVerse** 👉 https://techverse224.wordpress.com/
+
+---
+
+### Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,python,cpp,html,css&theme=dark"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark"/>
+<br/>
+<img src="https://img.shields.io/badge/LangChain-00C9A7?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-0F2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agentic_AI-FF8C00?style=flat-square"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&theme=dark"/>
+
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Nmap-214478?style=flat-square"/>
+</p>
+
+---
+
+### Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ajinkya-pathak-820675326/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/ajinkya_pathak_07" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+  <a href="https://instagram.com/ajinkya_pathak_07">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.hackerrank.com/pathaklaxmikant1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
+  <a href="https://www.hackerrank.com/pathaklaxmikant1">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-  <a href="https://www.leetcode.com/rmklwi2zjv" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+  <a href="https://leetcode.com/rmklwi2zjv">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
-<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/ddf2e61e40a672d5148927e186f409efbda38ef5/Assets/Blue%20Line.gif" width="100%" height="2px" />
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://www.logo.wine/a/logo/Wireshark/Wireshark-Logo.wine.svg" width="60"/>
-</p>
+### 📊 GitHub Stats
 
-<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/ddf2e61e40a672d5148927e186f409efbda38ef5/Assets/Blue%20Line.gif" width="100%" height="2px" />
-
-
-
-<table align="center">
+<table width="100%" align="center">
   <tr>
-    <td align="center">
-      <img
-        src="https://github-readme-stats-orcin-eight-83.vercel.app/api?username=ajinkyap9&show_icons=true&theme=github_dark&hide_border=true"
-        width="380"
-        alt="GitHub Stats"
-      />
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com?user=ajinkyap9&theme=tokyonight&hide_border=true&border_radius=12&timezone=Asia/Kolkata&v=1" width="100%" alt="GitHub Streak"/>
     </td>
-    <td align="center">
-      <img
-        src="https://github-readme-streak-stats-v95z.onrender.com/?user=ajinkyap9&theme=github-dark&hide_border=true"
-        width="380"
-        alt="GitHub Streak"
-      />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyap9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1" width="100%" alt="Top Languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ajinkyap9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" width="70%" alt="GitHub Stats"/>
     </td>
   </tr>
 </table>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00C9A7&height=2&section=header" width="100%"/>
+
+---
+
+### Philosophy
+
+<p align="center">
+  <i>"Build secure systems. Think like an attacker. Defend like an engineer."</i>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+</p>
