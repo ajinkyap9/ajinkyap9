@@ -66,13 +66,7 @@ I also share insights on cybersecurity and emerging technologies through TechVer
   <a href="https://www.linkedin.com/in/ajinkya-pathak-820675326/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/ajinkya_pathak_07">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/pathaklaxmikant1">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/rmklwi2zjv">
+  <a href="https://leetcode.com/u/Yn0w4Q3ck9">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
